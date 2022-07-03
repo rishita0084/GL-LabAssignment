@@ -1,7 +1,5 @@
 package com.GreatLearning.GradedAssignment1;
 
-import java.sql.SQLOutput;
-
 public class AdminDepartment extends SuperDepartment{
     public String departmentName(){
         return "Admin Department";
